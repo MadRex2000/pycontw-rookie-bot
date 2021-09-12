@@ -1,9 +1,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # pycon-rookie-bot
 
-Discord bot manage rookie volunteers roles
+Discord bot that manage rookie volunteers roles
 
 ## Getting Started
 
@@ -13,7 +12,4 @@ Discord bot manage rookie volunteers roles
 ## Usage
 
 
-
-## Authors
-Rex Wu <rexwu.1123@gmail.com>
 
