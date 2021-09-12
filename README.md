@@ -2,7 +2,7 @@
 
 # pycon-rookie-bot
 
-Discord bot that manage rookie volunteers roles
+Discord bot which manage the rookie volunteers' roles
 
 ## Getting Started
 
